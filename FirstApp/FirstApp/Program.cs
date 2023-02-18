@@ -1,4 +1,6 @@
-﻿string name = "Ewa";
+// zadanie dzien 4
+
+string name = "Ewa";
 var myAge = 33;
 char gender = 'f';
 
