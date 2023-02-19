@@ -1,5 +1,3 @@
-using System.ComponentModel;
-
 int number = 4324;
 string numberAsString = number.ToString();
 char[] letters = numberAsString.ToArray();
